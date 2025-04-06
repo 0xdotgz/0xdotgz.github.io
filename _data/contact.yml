@@ -19,6 +19,10 @@
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
 
+- type: X
+  icon: 'fab fa-x-twitter'
+  url: 'https://x.com/0xdotgz'
+
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/naresh-j-apt/'                  # Fill with your Linkedin homepage
@@ -26,7 +30,7 @@
 
 - type: more
   icon: 'fa-solid fa-id-badge'
-  url: 'https://getmydropper.vercel.app/'  
+  url: 'https://0xdotgz.vercel.app/'  
 
 - type: rss
   icon: "fas fa-rss"
