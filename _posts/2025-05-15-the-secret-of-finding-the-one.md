@@ -1,6 +1,6 @@
 ---
 title: The Secret to Finding 'The One'? - Don't Look For Them!
-date: 2025-05-15 17:00:00 +/-TTTT
+date: 2025-05-15 01:00:00 +/-TTTT
 image:
   path: /assets/posts/the_secret/img.jpg
   class: "img-right"
