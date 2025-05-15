@@ -63,3 +63,4 @@ Making this switch – from chasing external validation to building internal str
 {: .prompt-tip }
 
 So yeah, let's forget the idea of "prioritizing women" or "prioritizing men" as the goal. Your goal is to build an awesome, messy, purpose driven, passionate, stable life *for yourself*. Focus on building your own strong, beautiful house. The right people will be drawn to the light inside. Trust the process. Trust yourself. You've got this.
+ 
